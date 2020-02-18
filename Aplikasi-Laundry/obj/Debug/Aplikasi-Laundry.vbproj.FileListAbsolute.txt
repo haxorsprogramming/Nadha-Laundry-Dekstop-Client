@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Aplikasi-Laundry\Aplikasi-Laundry\bin\Debug\Aplikasi-Laundry.exe.config
+C:\Users\ASUS\source\repos\Aplikasi-Laundry\Aplikasi-Laundry\bin\Debug\Aplikasi-Laundry.exe
+C:\Users\ASUS\source\repos\Aplikasi-Laundry\Aplikasi-Laundry\bin\Debug\Aplikasi-Laundry.pdb
+C:\Users\ASUS\source\repos\Aplikasi-Laundry\Aplikasi-Laundry\bin\Debug\Aplikasi-Laundry.xml
+C:\Users\ASUS\source\repos\Aplikasi-Laundry\Aplikasi-Laundry\obj\Debug\Aplikasi-Laundry.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Aplikasi-Laundry\Aplikasi-Laundry\obj\Debug\Aplikasi_Laundry.Form1.resources
+C:\Users\ASUS\source\repos\Aplikasi-Laundry\Aplikasi-Laundry\obj\Debug\Aplikasi_Laundry.Resources.resources
+C:\Users\ASUS\source\repos\Aplikasi-Laundry\Aplikasi-Laundry\obj\Debug\Aplikasi-Laundry.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Aplikasi-Laundry\Aplikasi-Laundry\obj\Debug\Aplikasi-Laundry.exe
+C:\Users\ASUS\source\repos\Aplikasi-Laundry\Aplikasi-Laundry\obj\Debug\Aplikasi-Laundry.xml
+C:\Users\ASUS\source\repos\Aplikasi-Laundry\Aplikasi-Laundry\obj\Debug\Aplikasi-Laundry.pdb
